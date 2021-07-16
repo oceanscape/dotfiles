@@ -7,6 +7,12 @@
 [link=https://circleci.com/gh/bkuhlmann/dotfiles]
 image::https://circleci.com/gh/bkuhlmann/dotfiles.svg?style=svg[Circle CI Status]
 
+
+_____________________________________________
+This is my own personal variant of this FORK
+_____________________________________________
+
+
 Shell scripts for applying default settings to UNIX-based operating systems.
 
 By default, these are set to my preferences (namely for macOS) but you can change them to your
