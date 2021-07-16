@@ -8,9 +8,10 @@
 image::https://circleci.com/gh/bkuhlmann/dotfiles.svg?style=svg[Circle CI Status]
 
 
-_____________________________________________
+
 ## This is my own personal variant of this FORK
-_____________________________________________
+#heading
+
 
 
 Shell scripts for applying default settings to UNIX-based operating systems.
