@@ -9,7 +9,7 @@ image::https://circleci.com/gh/bkuhlmann/dotfiles.svg?style=svg[Circle CI Status
 
 
 
-## <span color="red">This is my own personal variant of this FORK</span>
+## <h3 style="color:#ff0000">This is my own personal variant of this FORK</h3>
 
 
 
