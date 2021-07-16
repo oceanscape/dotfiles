@@ -8,11 +8,9 @@
 image::https://circleci.com/gh/bkuhlmann/dotfiles.svg?style=svg[Circle CI Status]
 
 
-
+#-----------------------------------------------
 ## This is my own personal variant of this FORK
-#
-#
-#
+#-----------------------------------------------
 
 
 
