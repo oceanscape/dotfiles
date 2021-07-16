@@ -10,8 +10,8 @@ image::https://circleci.com/gh/bkuhlmann/dotfiles.svg?style=svg[Circle CI Status
 
 
 # This is my own personal variant of this FORK...
-Everything below this is from Brooke Kuhlmann's dotfiles README content...
-### link:https://github.com/bkuhlmann/dotfiles[Brooke Kuhlmann's dotfiles]
+## Everything below this is from link:https://github.com/bkuhlmann/dotfiles[Brooke Kuhlmann's dotfiles] README content...
+
 
 
 
